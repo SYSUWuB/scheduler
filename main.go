@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/cnych/sample-scheduler-extender/controller"
+	"github.com/SYSUWuB/scheduler/controller"
 	"log"
 	"math/rand"
 	"net/http"
