@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/SYSUWuB/scheduler/controller"
+	"scheduler/controller"
 	"log"
 	"math/rand"
 	"net/http"
